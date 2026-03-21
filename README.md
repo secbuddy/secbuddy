@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there! 👋 I'm SecBuddy
 
-<!--
-**secbuddy/secbuddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring **Cybersecurity Associate** and **VAPT Analyst** with a strong foundation in offensive security and professional reporting. I have hands-on experience in simulated lab environments identifying and mitigating security weaknesses across networks and web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ Core Cybersecurity Focus / Work
+
+* **Vulnerability Assessment & Penetration Testing (VAPT):** Executing end-to-end security audits using Kali Linux and Nmap to identify critical system vulnerabilities.
+* **Threat Intelligence & Sharing (MISP):** Implementing secure platforms for automated threat data exchange and collaborative defense.
+* **Security Automation:** Developing modular frameworks to streamline scanning, exploitation, and reporting workflows.
+* **Secure Code Review (SAST):** Auditing application code against **OWASP Top 10** and **SANS** guidelines to ensure "Security by Design."
+* **Incident Analysis:** Researching real-world phishing incidents to identify root causes and strategic mitigation steps.
+
+---
+
+### 🛠️ Technical Toolkit
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Operating Systems** | Kali Linux, Parrot Security OS, Windows Server |
+| **VAPT Tools** | Nmap, Metasploit, Burp Suite, Wireshark, SQLmap, Nessus |
+| **** | MISP (Threat Intelligence), Automated Testing Frameworks |
+| **Networking** | Cloud Computing (Jetking), LAN/WAN Configuration, Infrastructure Security |
+
+---
+
+### 🚀 Let's Connect!
+
+I am actively seeking opportunities to contribute to a dynamic Security Operations Center (SOC) or VAPT team.
+
+* **LinkedIn:** www.linkedin.com/in/aman-sharma-8b9b6b2b4
+* **Email:** mr.amansharma018@gmail.com
+* **Location:** Delhi, India
