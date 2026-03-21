@@ -20,7 +20,6 @@ An aspiring **Cybersecurity Associate** and **VAPT Analyst** with a strong found
 | :--- | :--- |
 | **Operating Systems** | Kali Linux, Parrot Security OS, Windows Server |
 | **VAPT Tools** | Nmap, Metasploit, Burp Suite, Wireshark, SQLmap, Nessus |
-| **** | MISP (Threat Intelligence), Automated Testing Frameworks |
 | **Networking** | Cloud Computing (Jetking), LAN/WAN Configuration, Infrastructure Security |
 
 ---
