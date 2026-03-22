@@ -28,6 +28,6 @@ An aspiring **Cybersecurity Associate** and **VAPT Analyst** with a strong found
 
 I am actively seeking opportunities to contribute to a dynamic Security Operations Center (SOC) or VAPT team.
 
-* **LinkedIn:** www.linkedin.com/in/aman-sharma-8b9b6b2b4
+* **LinkedIn:** www.linkedin.com/in/aman-sharma-s3cbuddy
 * **Email:** mr.amansharma018@gmail.com
 * **Location:** Delhi, India
